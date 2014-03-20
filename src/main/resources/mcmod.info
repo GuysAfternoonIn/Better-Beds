@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "betterbeds",
+  "name": "Better Beds",
+  "description": "Improve beds over vanilla experience.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authors": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authors": ["jwondra"],
+  "credits": "me, bitches",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
